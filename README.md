@@ -37,7 +37,7 @@
 ## My Stats
 <p>
 <a href="https://github.com/ryancode-commit">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dinopriyano&show_icons=true&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ryancode-commit&show_icons=true&theme=dark" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryancode-commit&theme=dark&layout=compact&exclude_lang=java+r" />
 </a>
 </p>
