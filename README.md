@@ -3,12 +3,17 @@
 ## I'm Ryan.
 
 ### 💻 &nbsp;About Me 
+<p align="center">
+<img height="200" alt="GIF" src="https://media.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif" />
+</p>
+
 
 - 🤔 &nbsp; Currently focusing on mobile development.
 - 💩 &nbsp; I hate web programming (front end).
 - 🧑🏻‍💻 &nbsp; Internship at Indihome as Android Developer.
 - 🎓 &nbsp; Studying Software Engineering at STMIK Jakarta STI&K.
 
+<img align="center" alt="GIF" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" />
 
 ### 🛠 &nbsp;Tech Stack
 
