@@ -4,7 +4,7 @@
 
 ### 💻 &nbsp;About Me 
 <p align="center">
-<img height="200" alt="GIF" src="https://media.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif" />
+<img height="100" width="100" alt="GIF" src="https://media.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif" />
 </p>
 
 
