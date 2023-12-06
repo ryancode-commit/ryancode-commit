@@ -3,7 +3,7 @@
 ## I'm Ryan.
 
 ### 💻 &nbsp;About Me 
-<p align="center">
+<p align="left">
 <img height="100" width="100" alt="GIF" src="https://media.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif" />
 </p>
 
